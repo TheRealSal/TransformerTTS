@@ -1,6 +1,4 @@
-# TransformerTTS
-
-# Neural Speech Synthesis with Transformer Network - README
+# TransformerTTS - Neural Speech Synthesis with Transformer Network
 
 ## Overview
 
@@ -14,7 +12,6 @@ This project implements the neural speech synthesis model described in the paper
 
 - **End-to-End TTS**: Directly converts phoneme sequences to mel spectrograms.
 - **Transformer Architecture**: Utilizes self-attention for parallelization and better handling of long-term dependencies.
-- TODO - **WaveNet Vocoder**: Converts mel spectrograms to audio waveforms.
 - **Enhanced Training Efficiency**: Approximately 4.25 times faster training compared to Tacotron2.
 - **High-Quality Output**: Achieves a MOS score of 4.39, close to human speech quality.
 
